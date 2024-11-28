@@ -6,6 +6,15 @@
 
 ---
 
+### 📖 About me:
+
+- 🖥 I am a beginning software developer
+  
+- 🎓 I am s𝚝𝚞𝚍𝚢𝚒𝚗𝚐 at Bit academy
+
+
+---
+
 ### 🛠 Currently learning:
 
 <div align="left">
