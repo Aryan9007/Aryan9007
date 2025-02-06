@@ -1,4 +1,4 @@
-![GithubAryan](https://github.com/user-attachments/assets/7e8cd507-1627-4692-a526-63b344e3d65a)
+![GithubAryan](https://github.com/user-attachments/assets/c6ed1b5d-5252-402b-a860-8cfb7658cab3)
 
 
 ### 📖 About me:
