@@ -1,8 +1,4 @@
-# Aryan Lachman
 
-**Front-end Developer**
-
-**Purmerend, Netherlands**
 
 ---
 
