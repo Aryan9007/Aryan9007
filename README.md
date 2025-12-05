@@ -32,11 +32,4 @@
 
 ---
 
-### GitHub Stats
-<div>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan9007&layout=compact&theme=transparent&title_color=C0CCFF&text_color=C0CCFF&bg_color=00000000&border_color=C0CCFF" alt="Top Languages" />
-    <a href="https://git.io/streak-stats">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan9007&theme=transparent&fire=C0CCFF&ring=C0CCFF&currStreakNum=C0CCFF&currStreakLabel=C0CCFF&sideLabels=C0CCFF&dates=C0CCFF&sideNums=C0CCFF&border=C0CCFF&stroke=C0CCFF" alt="GitHub Streak" />
-    </a>
-</div>
 
